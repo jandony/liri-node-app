@@ -6,10 +6,13 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 To retrieve the data that will power this app, the user will send requests _("search")_ using the axios package to the Bands in Town, Spotify and OMDB APIs.
 
 ## Overview of the App
+_coming soon..._
 
 ## Instructions
+_coming soon..._
 
 ## Link to App
+_coming soon..._
 
 ## Technologies Used in App
 * Axios Package -> Promise based HTTP client for the browser and node.js
@@ -22,6 +25,7 @@ To retrieve the data that will power this app, the user will send requests _("se
 _Total APIs: 3_
 
 ## Creator's Role in the App Development
+_coming soon..._
 
 
 <!-- 
