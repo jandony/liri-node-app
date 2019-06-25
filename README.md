@@ -15,9 +15,10 @@ _coming soon..._
 _coming soon..._
 
 ## Technologies Used in App
-* Axios Package -> Promise based HTTP client for the browser and node.js
+* Axios NPM Package -> Promise based HTTP client for the browser and node.js
+* Inquirer NPM Package -> A collection of common interactive command line user interfaces
 * Moment -> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates
-* DotEnv -> Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
+* DotEnv -> Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env
 * Node-Spotify-API -> A simple to use API library for the Spotify REST API
 * OMDb API -> A RESTful web service to obtain movie information, all content and images on the site
 * Bands In Town API -> Displays read-only access to artist info and artist events
