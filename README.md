@@ -6,10 +6,21 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 To retrieve the data that will power this app, the user will send requests _("search")_ using the axios package to the Bands in Town, Spotify and OMDB APIs.
 
 ## Overview of the App
-_coming soon..._
+* Required all Node Package Installations
+* Created 2 user input variables (one for the command type and one for the user text input)
+* Declared functions for each user command type (concert-this, spotify-this-song, movie-this, and do-what-it-says)
+* When user types a command type without any input, the user inputs will default to the developer's default inputs.
 
 ## Instructions
-_coming soon..._
+1. Begin by downloading all files inside the repository
+2. Open terminal or bash window
+3. Navigate into the repo folder
+4. Start by typing "node liri.js" then add a command type followed by an input
+    - Command Example 1: _node liri.js concert-this Maroon 5_
+    - Command Example 2: _node liri.js spotify-this-song Lose Yourself_
+    - Command Example 3: _node liri.js movie-this The Avengers_
+    - Command Example 4: _node liri.js do-what-it-says_
+
 
 ## Link to App
 _coming soon..._
@@ -26,7 +37,7 @@ _coming soon..._
 _Total APIs: 3_
 
 ## Creator's Role in the App Development
-_coming soon..._
+Back End Developer for the app
 
 
 <!-- 
