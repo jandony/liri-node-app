@@ -22,8 +22,11 @@ To retrieve the data that will power this app, the user will send requests _("se
     - Command Example 4: _node liri.js do-what-it-says_
 
 
-## Link to App
-_coming soon..._
+## Command Example Screenshots
+![Image of Example 1](https://github.com/jandony/liri-node-app/blob/master/Command%20Images/concert-this-screenshot.png)
+![Image of Example 2](https://github.com/jandony/liri-node-app/blob/master/Command%20Images/spotify-this-song-screenshot.png)
+![Image of Example 3](https://github.com/jandony/liri-node-app/blob/master/Command%20Images/movie-this-screenshot.png)
+![Image of Example 4](https://github.com/jandony/liri-node-app/blob/master/Command%20Images/do-what-it-says-screenshot.png)
 
 ## Technologies Used in App
 * Axios NPM Package -> Promise based HTTP client for the browser and node.js
